@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NavTesting</string>
+    <string name="usuario">user1</string>
+    <string name="seccion_1">seccion 1</string>
+    <string name="seccion_2">seccion 2</string>
+    <string name="seccion_3">seccion 3</string>
+    <string name="otras_opciones">otras opciones</string>
+    <string name="opcion_1">opcion 1</string>
+    <string name="opcion_2">opcion 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Hello blank fragment1</string>
+    <string name="hello_blank_fragment2">Hello blank fragment2</string>
+    <string name="hello_blank_fragment3">Hello blank fragment3</string>
+</resources>

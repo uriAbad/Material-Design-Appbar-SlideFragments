@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "101397163104",
+    "firebase_url": "https://navtesting-9098c.firebaseio.com",
+    "project_id": "navtesting-9098c",
+    "storage_bucket": "navtesting-9098c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101397163104:android:fe2af377a64b490f",
+        "android_client_info": {
+          "package_name": "oabad.navtesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101397163104-rkbs9qqg1t7le53nqugoqhgqs2gpbtmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "oabad.navtesting",
+            "certificate_hash": "71A2C2F131B8DB106BCE0609C4694F66D1005AAB"
+          }
+        },
+        {
+          "client_id": "101397163104-q79kl956s7nip1lskt7ufofb6tr3bhd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUdObslYmJMlSwBP9q11dS3jLXWrQ-hMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101397163104-q79kl956s7nip1lskt7ufofb6tr3bhd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
